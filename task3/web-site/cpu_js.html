@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CPU Usage</title>
+    <script>
+        function fetchCpuUsage() {
+            fetch('/cpu_usage.txt')
+                .then(response => response.text())
+                .then(data => {
+                    document.getElementById('cpu-data').innerText = data;
+                });
+        }
+        setInterval(fetchCpuUsage, 1000);
+    </script>
+</head>
+<body>
+    <h1>CPU usage in real time:</h1>
+    <pre id="cpu-data">...</pre>
+</body>
+</html>

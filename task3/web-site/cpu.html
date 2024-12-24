@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CPU Usage</title>
+    <meta http-equiv="refresh" content="1"> 
+</head>
+<body>
+    <h1>CPU usage in real time:</h1>
+    <pre id="cpu-data">
+        <?php echo file_get_contents("/var/www/html/cpu_usage.txt"); ?>
+    </pre>
+</body>
+</html>
