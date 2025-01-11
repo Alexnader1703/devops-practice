@@ -1,0 +1,162 @@
+2025-01-05 18:32:56.117431: [MGR] Starting WireGuard/0.5.3 (Windows 10.0.26100; amd64)
+2025-01-05 18:32:56.121074: [MGR] Starting UI process for user ‘Alexander@DESKTOP-K80QIOG’ for session 1
+2025-01-05 18:55:23.674559: [TUN] [wg-client] Starting WireGuard/0.5.3 (Windows 10.0.26100; amd64)
+2025-01-05 18:55:23.674559: [TUN] [wg-client] Watching network interfaces
+2025-01-05 18:55:23.676103: [TUN] [wg-client] Resolving DNS names
+2025-01-05 18:55:23.676103: [TUN] [wg-client] Creating network adapter
+2025-01-05 18:55:23.738536: [TUN] [wg-client] Installing driver 0.10
+2025-01-05 18:55:23.738712: [TUN] [wg-client] Extracting driver
+2025-01-05 18:55:23.739265: [TUN] [wg-client] Installing driver
+2025-01-05 18:55:24.080947: [TUN] [wg-client] Creating adapter
+2025-01-05 18:55:24.252345: [TUN] [wg-client] Using WireGuardNT/0.10
+2025-01-05 18:55:24.252345: [TUN] [wg-client] Enabling firewall rules
+2025-01-05 18:55:24.234518: [TUN] [wg-client] Interface created
+2025-01-05 18:55:24.255500: [TUN] [wg-client] Dropping privileges
+2025-01-05 18:55:24.255500: [TUN] [wg-client] Setting interface configuration
+2025-01-05 18:55:24.255500: [TUN] [wg-client] Peer 1 created
+2025-01-05 18:55:24.260507: [TUN] [wg-client] Sending keepalive packet to peer 1 (89.169.161.233:51820)
+2025-01-05 18:55:24.260507: [TUN] [wg-client] Sending handshake initiation to peer 1 (89.169.161.233:51820)
+2025-01-05 18:55:24.260507: [TUN] [wg-client] Monitoring MTU of default v4 routes
+2025-01-05 18:55:24.260507: [TUN] [wg-client] Interface up
+2025-01-05 18:55:24.266738: [TUN] [wg-client] Setting device v4 addresses
+2025-01-05 18:55:24.387632: [TUN] [wg-client] Monitoring MTU of default v6 routes
+2025-01-05 18:55:24.387632: [TUN] [wg-client] Setting device v6 addresses
+2025-01-05 18:55:24.403171: [TUN] [wg-client] Startup complete
+2025-01-05 18:55:29.327634: [TUN] [wg-client] Handshake for peer 1 (89.169.161.233:51820) did not complete after 5 seconds, retrying (try 2)
+2025-01-05 18:55:29.327634: [TUN] [wg-client] Sending handshake initiation to peer
+2025-01-05 18:55:34.357005: [TUN] [wg-client] Handshake for peer 1 (89.169.161.233:51820) did not complete after 5 seconds, retrying (try 2)
+2025-01-05 18:55:34.357612: [TUN] [wg-client] Sending handshake initiation to peer 1 (89.169.161.233:51820)
+2025-01-05 18:55:39.522339: [TUN] [wg-client] Handshake for peer 1 (89.169.161.233:51820) did not complete after 5 seconds, retrying (try 2)
+2025-01-05 18:55:39.522339: [TUN] [wg-client] Sending handshake initiation to peer 1 (89.169.161.233:51820)
+2025-01-05 18:55:44.526774: [TUN] [wg-client] Handshake for peer 1 (89.169.161.233:51820) did not complete after 5 seconds, retrying (try 3)
+2025-01-05 18:55:44.526774: [TUN] [wg-client] Sending handshake initiation to peer 1 (89.169.161.233:51820)
+2025-01-05 18:55:49.633943: [TUN] [wg-client] Handshake for peer 1 (89.169.161.233:51820) did not complete after 5 seconds, retrying (try 2)
+2025-01-05 18:55:49.633943: [TUN] [wg-client] Sending handshake initiation to peer 1 (89.169.161.233:51820)
+2025-01-05 18:55:54.642183: [TUN] [wg-client] Handshake for peer 1 (89.169.161.233:51820) did not complete after 5 seconds, retrying (try 2)
+2025-01-05 18:55:54.642183: [TUN] [wg-client] Sending handshake initiation to peer 1 (89.169.161.233:51820)
+2025-01-05 18:55:59.794135: [TUN] [wg-client] Handshake for peer 1 (89.169.161.233:51820) did not complete after 5 seconds, retrying (try 2)
+2025-01-05 18:55:59.794135: [TUN] [wg-client] Sending handshake initiation to peer 1 (89.169.161.233:51820)
+2025-01-05 18:56:04.884543: [TUN] [wg-client] Handshake for peer 1 (89.169.161.233:51820) did not complete after 5 seconds, retrying (try 3)
+2025-01-05 18:56:04.884543: [TUN] [wg-client] Sending handshake initiation to peer 1 (89.169.161.233:51820)
+2025-01-05 18:56:09.915655: [TUN] [wg-client] Handshake for peer 1 (89.169.161.233:51820) did not complete after 5 seconds, retrying (try 4)
+2025-01-05 18:56:09.915655: [TUN] [wg-client] Sending handshake initiation to peer 1 (89.169.161.233:51820)
+2025-01-05 18:56:15.003472: [TUN] [wg-client] Handshake for peer 1 (89.169.161.233:51820) did not complete after 5 seconds, retrying (try 5)
+2025-01-05 18:56:15.003472: [TUN] [wg-client] Sending handshake initiation to peer 1 (89.169.161.233:51820)
+2025-01-05 18:56:20.024144: [TUN] [wg-client] Handshake for peer 1 (89.169.161.233:51820) did not complete after 5 seconds, retrying (try 6)
+2025-01-05 18:56:20.024144: [TUN] [wg-client] Sending handshake initiation to peer 1 (89.169.161.233:51820)
+2025-01-05 18:56:25.106020: [TUN] [wg-client] Handshake for peer 1 (89.169.161.233:51820) did not complete after 5 seconds, retrying (try 7)
+2025-01-05 18:56:25.106020: [TUN] [wg-client] Sending handshake initiation to peer 1 (89.169.161.233:51820)
+2025-01-05 18:56:30.139436: [TUN] [wg-client] Handshake for peer 1 (89.169.161.233:51820) did not complete after 5 seconds, retrying (try 8)
+2025-01-05 18:56:30.139436: [TUN] [wg-client] Sending handshake initiation to peer 1 (89.169.161.233:51820)
+2025-01-05 18:56:35.161745: [TUN] [wg-client] Handshake for peer 1 (89.169.161.233:51820) did not complete after 5 seconds, retrying (try 9)
+2025-01-05 18:56:35.161745: [TUN] [wg-client] Sending handshake initiation to peer 1 (89.169.161.233:51820)
+2025-01-05 18:56:35.435804: [TUN] [wg-client] Shutting down
+2025-01-05 18:56:35.435804: [MGR] [wg-client] Tunnel service tracker finished
+2025-01-05 19:10:06.097702: [TUN] [wg-client] Starting WireGuard/0.5.3 (Windows 10.0.26100; amd64)
+2025-01-05 19:10:06.097702: [TUN] [wg-client] Watching network interfaces
+2025-01-05 19:10:06.098751: [TUN] [wg-client] Resolving DNS names
+2025-01-05 19:10:06.099266: [TUN] [wg-client] Creating network adapter
+2025-01-05 19:10:06.174047: [TUN] [wg-client] Using existing driver 0.10
+2025-01-05 19:10:06.177933: [TUN] [wg-client] Creating adapter
+2025-01-05 19:10:06.318346: [TUN] [wg-client] Using WireGuardNT/0.10
+2025-01-05 19:10:06.318346: [TUN] [wg-client] Enabling firewall rules
+2025-01-05 19:10:06.302997: [TUN] [wg-client] Interface created
+2025-01-05 19:10:06.321473: [TUN] [wg-client] Dropping privileges
+2025-01-05 19:10:06.321473: [TUN] [wg-client] Setting interface configuration
+2025-01-05 19:10:06.321986: [TUN] [wg-client] Peer 1 created
+2025-01-05 19:10:06.323012: [TUN] [wg-client] Sending keepalive packet to peer 1 (89.169.161.233:51820)
+2025-01-05 19:10:06.323012: [TUN] [wg-client] Sending handshake initiation to peer 1 (89.169.161.233:51820)
+2025-01-05 19:10:06.323012: [TUN] [wg-client] Interface up
+2025-01-05 19:10:06.323012: [TUN] [wg-client] Monitoring MTU of default v6 routes
+2025-01-05 19:10:06.327553: [TUN] [wg-client] Setting device v6 addresses
+2025-01-05 19:10:06.351901: [TUN] [wg-client] Monitoring MTU of default v4 routes
+2025-01-05 19:10:06.357869: [TUN] [wg-client] Setting device v4 addresses
+2025-01-05 19:10:06.376758: [TUN] [wg-client] Startup complete
+2025-01-05 19:10:11.381711: [TUN] [wg-client] Handshake for peer 1 (89.169.161.233:51820) did not complete after 5 seconds, retrying (try 2)
+2025-01-05 19:10:11.381711: [TUN] [wg-client] Sending handshake initiation to peer 1 (89.169.161.233:51820)
+2025-01-05 19:10:16.419353: [TUN] [wg-client] Sending handshake initiation to peer 1 (89.169.161.233:51820)
+2025-01-05 19:10:21.496049: [TUN] [wg-client] Sending handshake initiation to peer 1 (89.169.161.233:51820)
+2025-01-05 19:10:26.589356: [TUN] [wg-client] Handshake for peer 1 (89.169.161.233:51820) did not complete after 5 seconds, retrying (try 2)
+2025-01-05 19:10:26.589356: [TUN] [wg-client] Sending handshake initiation to peer 1 (89.169.161.233:51820)
+2025-01-05 19:10:31.697486: [TUN] [wg-client] Handshake for peer 1 (89.169.161.233:51820) did not complete after 5 seconds, retrying (try 2)
+2025-01-05 19:10:31.697486: [TUN] [wg-client] Sending handshake initiation to peer 1 (89.169.161.233:51820)
+2025-01-05 19:10:36.829766: [TUN] [wg-client] Sending handshake initiation to peer 1 (89.169.161.233:51820)
+2025-01-05 19:10:41.881784: [TUN] [wg-client] Handshake for peer 1 (89.169.161.233:51820) did not complete after 5 seconds, retrying (try 2)
+2025-01-05 19:10:41.881784: [TUN] [wg-client] Sending handshake initiation to peer 1 (89.169.161.233:51820)
+2025-01-05 19:10:46.919253: [TUN] [wg-client] Sending handshake initiation to peer 1 (89.169.161.233:51820)
+2025-01-05 19:10:51.976103: [TUN] [wg-client] Sending handshake initiation to peer 1 (89.169.161.233:51820)
+2025-01-05 19:10:57.025741: [TUN] [wg-client] Sending handshake initiation to peer 1 (89.169.161.233:51820)
+2025-01-05 19:11:02.184222: [TUN] [wg-client] Handshake for peer 1 (89.169.161.233:51820) did not complete after 5 seconds, retrying (try 2)
+2025-01-05 19:11:02.184222: [TUN] [wg-client] Sending handshake initiation to peer 1 (89.169.161.233:51820)
+2025-01-05 19:11:07.282380: [TUN] [wg-client] Handshake for peer 1 (89.169.161.233:51820) did not complete after 5 seconds, retrying (try 2)
+2025-01-05 19:11:07.282380: [TUN] [wg-client] Sending handshake initiation to peer 1 (89.169.161.233:51820)
+2025-01-05 19:11:10.917753: [TUN] [wg-client] Shutting down
+2025-01-05 19:11:10.918469: [MGR] [wg-client] Tunnel service tracker finished
+2025-01-05 19:13:17.566066: [TUN] [wg-client] Starting WireGuard/0.5.3 (Windows 10.0.26100; amd64)
+2025-01-05 19:13:17.566066: [TUN] [wg-client] Watching network interfaces
+2025-01-05 19:13:17.567130: [TUN] [wg-client] Resolving DNS names
+2025-01-05 19:13:17.567130: [TUN] [wg-client] Creating network adapter
+2025-01-05 19:13:17.607530: [TUN] [wg-client] Using existing driver 0.10
+2025-01-05 19:13:17.608262: [TUN] [wg-client] Creating adapter
+2025-01-05 19:13:17.744176: [TUN] [wg-client] Using WireGuardNT/0.10
+2025-01-05 19:13:17.744176: [TUN] [wg-client] Enabling firewall rules
+2025-01-05 19:13:17.727830: [TUN] [wg-client] Interface created
+2025-01-05 19:13:17.746300: [TUN] [wg-client] Dropping privileges
+2025-01-05 19:13:17.746814: [TUN] [wg-client] Setting interface configuration
+2025-01-05 19:13:17.746814: [TUN] [wg-client] Peer 1 created
+2025-01-05 19:13:17.747329: [TUN] [wg-client] Sending keepalive packet to peer 1 (89.169.161.233:51820)
+2025-01-05 19:13:17.747329: [TUN] [wg-client] Sending handshake initiation to peer 1 (89.169.161.233:51820)
+2025-01-05 19:13:17.747329: [TUN] [wg-client] Interface up
+2025-01-05 19:13:17.747329: [TUN] [wg-client] Monitoring MTU of default v6 routes
+2025-01-05 19:13:17.753222: [TUN] [wg-client] Setting device v6 addresses
+2025-01-05 19:13:17.815462: [TUN] [wg-client] Monitoring MTU of default v4 routes
+2025-01-05 19:13:17.821261: [TUN] [wg-client] Setting device v4 addresses
+2025-01-05 19:13:17.838395: [TUN] [wg-client] Startup complete
+2025-01-05 19:13:17.861474: [MGR] Failed to connect to adapter interface \\?\SWD#WireGuard#{8D1697BC-24F1-4798-DDD5-0331D489C83E}#{cac88484-7515-4c03-82e6-71a87abac361}: Не удается найти указанный файл. (Code 0x00000002)
+2025-01-05 19:13:22.866677: [TUN] [wg-client] Handshake for peer 1 (89.169.161.233:51820) did not complete after 5 seconds, retrying (try 2)
+2025-01-05 19:13:22.866677: [TUN] [wg-client] Sending handshake initiation to peer 1 (89.169.161.233:51820)
+2025-01-05 19:13:27.976415: [TUN] [wg-client] Handshake for peer 1 (89.169.161.233:51820) did not complete after 5 seconds, retrying (try 2)
+2025-01-05 19:13:27.976415: [TUN] [wg-client] Sending handshake initiation to peer 1 (89.169.161.233:51820)
+2025-01-05 19:13:33.136674: [TUN] [wg-client] Handshake for peer 1 (89.169.161.233:51820) did not complete after 5 seconds, retrying (try 3)
+2025-01-05 19:13:33.136674: [TUN] [wg-client] Sending handshake initiation to peer 1 (89.169.161.233:51820)
+2025-01-05 19:13:38.255522: [TUN] [wg-client] Handshake for peer 1 (89.169.161.233:51820) did not complete after 5 seconds, retrying (try 2)
+2025-01-05 19:13:38.255522: [TUN] [wg-client] Sending handshake initiation to peer 1 (89.169.161.233:51820)
+2025-01-05 19:13:43.305759: [TUN] [wg-client] Handshake for peer 1 (89.169.161.233:51820) did not complete after 5 seconds, retrying (try 2)
+2025-01-05 19:13:43.305759: [TUN] [wg-client] Sending handshake initiation to peer 1 (89.169.161.233:51820)
+2025-01-05 19:13:48.334359: [TUN] [wg-client] Handshake for peer 1 (89.169.161.233:51820) did not complete after 5 seconds, retrying (try 2)
+2025-01-05 19:13:48.334359: [TUN] [wg-client] Sending handshake initiation to peer 1 (89.169.161.233:51820)
+2025-01-05 19:13:50.116076: [TUN] [wg-client] Shutting down
+2025-01-05 19:13:50.116622: [MGR] [wg-client] Tunnel service tracker finished
+2025-01-05 19:45:33.851999: [TUN] [wg-client] Starting WireGuard/0.5.3 (Windows 10.0.26100; amd64)
+2025-01-05 19:45:33.851999: [TUN] [wg-client] Watching network interfaces
+2025-01-05 19:45:33.853170: [TUN] [wg-client] Resolving DNS names
+2025-01-05 19:45:33.853170: [TUN] [wg-client] Creating network adapter
+2025-01-05 19:45:33.919333: [TUN] [wg-client] Using existing driver 0.10
+2025-01-05 19:45:33.923306: [TUN] [wg-client] Creating adapter
+2025-01-05 19:45:34.038981: [TUN] [wg-client] Using WireGuardNT/0.10
+2025-01-05 19:45:34.038981: [TUN] [wg-client] Enabling firewall rules
+2025-01-05 19:45:34.005081: [TUN] [wg-client] Interface created
+2025-01-05 19:45:34.041573: [TUN] [wg-client] Dropping privileges
+2025-01-05 19:45:34.042091: [TUN] [wg-client] Setting interface configuration
+2025-01-05 19:45:34.042091: [TUN] [wg-client] Peer 1 created
+2025-01-05 19:45:34.043121: [TUN] [wg-client] Sending keepalive packet to peer 1 (89.169.161.233:51820)
+2025-01-05 19:45:34.043121: [TUN] [wg-client] Sending handshake initiation to peer 1 (89.169.161.233:51820)
+2025-01-05 19:45:34.043121: [TUN] [wg-client] Interface up
+2025-01-05 19:45:34.043121: [TUN] [wg-client] Monitoring MTU of default v6 routes
+2025-01-05 19:45:34.044186: [TUN] [wg-client] Setting device v6 addresses
+2025-01-05 19:45:34.055131: [TUN] [wg-client] Monitoring MTU of default v4 routes
+2025-01-05 19:45:34.055999: [TUN] [wg-client] Setting device v4 addresses
+2025-01-05 19:45:34.057990: [TUN] [wg-client] Startup complete
+2025-01-05 19:45:34.058826: [MGR] Failed to connect to adapter interface \\?\SWD#WireGuard#{B1441BD2-35EB-92BE-531D-6CEE7CD41B72}#{cac88484-7515-4c03-82e6-71a87abac361}: Не удается найти указанный файл. (Code 0x00000002)
+2025-01-05 19:45:34.169741: [TUN] [wg-client] Receiving handshake response from peer 1 (89.169.161.233:51820)
+2025-01-05 19:45:34.169741: [TUN] [wg-client] Keypair 1 created for peer 1
+2025-01-05 19:45:44.437274: [TUN] [wg-client] Receiving keepalive packet from peer 1 (89.169.161.233:51820)
+2025-01-05 19:46:09.501071: [TUN] [wg-client] Receiving keepalive packet from peer 1 (89.169.161.233:51820)
+2025-01-05 19:46:23.839111: [TUN] [wg-client] Receiving keepalive packet from peer 1 (89.169.161.233:51820)
+2025-01-05 19:46:48.845054: [TUN] [wg-client] Sending keepalive packet to peer 1 (89.169.161.233:51820)
+2025-01-05 19:47:13.853800: [TUN] [wg-client] Sending keepalive packet to peer 1 (89.169.161.233:51820)
+2025-01-05 19:47:38.869461: [TUN] [wg-client] Sending keepalive packet to peer 1 (89.169.161.233:51820)
+2025-01-05 19:47:38.869461: [TUN] [wg-client] Sending handshake initiation to peer 1 (89.169.161.233:51820)
+2025-01-05 19:47:39.038628: [TUN] [wg-client] Receiving handshake response from peer 1 (89.169.161.233:51820)
+2025-01-05 19:47:39.038628: [TUN] [wg-client] Keypair 2 created for peer 1
+2025-01-05 19:47:39.038628: [TUN] [wg-client] Sending keepalive packet to peer 1 (89.169.161.233:51820)
