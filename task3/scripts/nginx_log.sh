@@ -16,16 +16,14 @@ while true; do
 
     if [ $(stat -c %s $LOG_FILE) -ge $MAX_SIZE ]; then
         COUNT_LINE=$(wc -l < $LOG_FILE)
-        echo "" > "$LOG_FILE"
         echo "$(date): Cleared $COUNT_LINE lines from $LOG_FILE" >> "$CLEAR_LOG_FILE"
+        echo "" > "$LOG_FILE"
     fi
 
-    tail -n 20 /var/log/nginx/access.log  >> "$LOG_FILE"
-    awk '!seen[$0]++' '$LOG_FILE' > "$LOG_FILE"
 
-    awk '$9 ~ /^4[0-9]{2}$/ {print $0 >> "'$ERROR_4XX_LOG'"} $9 ~ /^5[0-9]{2}$/ {print $0 >> "'$ERROR_5XX_LOG'"}' /var/log/nginx/access.log
-    awk '!seen[$0]++' '$ERROR_4XX_LOG' > "$ERROR_4XX_LOG"
-    awk '!seen[$0]++' '$ERROR_5XX_LOG' > "$ERROR_5XX_LOG"
+    cat /var/log/nginx/access.log > "$LOG_FILE"
+    awk '$9 ~ /^4[0-9]{2}$/ {print $0 > "'$ERROR_4XX_LOG'"} $9 ~ /^5[0-9]{2}$/ {print $0 > "'$ERROR_5XX_LOG'"}' /var/log/nginx/access.log
+    
     sleep 5
 done
 
